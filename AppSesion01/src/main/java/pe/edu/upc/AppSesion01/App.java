@@ -19,6 +19,9 @@ public class App
 			System.out.print("Ingrese un nombre"+(i+1));
 			arrNombre[i] = s.nextLine();
 		}
+        for (int i = 0; i < arrNombre.length; i++) {
+			System.out.print(arrNombre[i]);
+		}
         
     }
 }
