@@ -1,4 +1,4 @@
-package pe.edu.upc.AppSesion01;
+package pe.edu.upc.AppSesion02;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
