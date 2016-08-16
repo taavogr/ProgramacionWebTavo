@@ -2,7 +2,7 @@ package pe.edu.upc.view;
 
 import java.util.Scanner;
 
-import pe.edu.upc.Entitys.Operacion;
+import pe.edu.upc.entitys.Operacion;
 
 public class AppCalculadora {
 

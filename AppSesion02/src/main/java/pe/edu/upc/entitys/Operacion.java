@@ -1,4 +1,4 @@
-package pe.edu.upc.Entitys;
+package pe.edu.upc.entitys;
 
 public class Operacion {
 	
